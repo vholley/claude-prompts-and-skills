@@ -1,2 +1,4 @@
 # Deslop
 Deslop reworks text so it reads as something a thoughtful person wrote, not something a model produced. The job is not to run a find-and-replace on a list of suspicious words. The shallow tells (vocabulary, em-dashes, curly quotes) survive that and the deeper ones do not, and a text that has only had its vocabulary swapped still reads as AI. The real work is at the level of structure, emphasis, and substance.
+
+A tell is a signal, not a verdict. Human writing contains every pattern here at some frequency, because models learned these patterns from humans. One instance proves nothing. The signal is in the density and co-occurrence: many tells, many times, in text written after late 2022. Each entry below includes a "when acceptable" note so you do not strip a pattern that is doing legitimate work.
