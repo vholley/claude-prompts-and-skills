@@ -202,7 +202,7 @@ The trajectory matters: "delve" was a strong tell in 2023 to early 2024 and had 
 
 ### Em-dashes
 
-Models overuse the em-dash, especially where a comma, colon, parenthesis, or period would do, and especially in a "punched-up" sales rhythm. Minimize hard: replace with the punctuation the sentence actually wants, and reserve the rare em-dash for cases where nothing else fits. This is *not* dispositive on its own (many humans use em-dashes well, and some newer models suppress them), so weight it lightly as a signal even while editing it out for style.
+Models overuse the em-dash, especially in a "punched-up" sales rhythm: the appended afterthought, the mid-sentence interruption, the two-beat punchline. The em-dash is the visible part; the sentence shape underneath is the actual tell. Do not fix it by swapping the glyph. Rewrite the sentence so it needs no pause-punctuation (fold the afterthought in, split the interruption out, state the punchline plainly), and fall back to other punctuation only when the rewrite reads worse. A colon standing in for the pause is the same tell in different clothes; a colon is right only before a list, a definition, or a restatement. Reserve the rare em-dash for cases where nothing else fits. This is *not* dispositive on its own as a detection signal (many humans use em-dashes well, and some newer models suppress them), so weight it lightly as a signal even while editing it out for style.
 
 ### Copy-paste and Unicode artifacts
 
